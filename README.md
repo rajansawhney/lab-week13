@@ -1,7 +1,7 @@
 # ICS 212
-## Lab - Week 12
+## Lab - Week 13
 
-# Classes
+# Inheritance
 
 ### Instructions:
 - Update the program files following instructions provided in the assignment pdf (uploaded on Laulima) and in the program comments.
