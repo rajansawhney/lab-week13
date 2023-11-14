@@ -1,5 +1,6 @@
 /*
 I. Inheritance
+
 Write a C++ Program to implement a class called Animal with virtual member functions for
 eating, sleeping, set color and get color. 
 Derive classes such as Dog and Cat from the Animal class with member functions for
